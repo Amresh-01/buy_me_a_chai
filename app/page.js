@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      <div className="flex justify-center flex-col items-center text-white h-[44vh]">
+      <div className="flex justify-center flex-col items-center text-white h-[44vh] ">
         <div className="font-bold text-4xl flex gap-2 justify-center items-center">Buy Me a Chai . . .<span><img src = "/tea.gif" width={88}></img></span></div>
         <p>
           A crowdfunding platform for creators. Get funded by your fans and followers. Start now!
@@ -18,7 +18,7 @@ export default function Home() {
             Read more</button>
         </div>
       </div>
-      <div className="bg-white h-1 opacity-5">
+      <div className="bg-white h-1 opacity-10">
       </div>
 
       <div className="text-white container mx-auto py-32">
