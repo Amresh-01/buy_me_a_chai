@@ -31,26 +31,6 @@ We're working hard to bring you an improved experience. Please check back soon!
 
 ---
 
-📂 Folder Structure
-
-buy_me_a_chai/
-├── app/                 # Next.js App Router pages and layout
-│   └── page.js          # Main landing page
-├── components/          # Reusable React components
-├── public/              # Static assets (images, icons, etc.)
-├── styles/              # Tailwind CSS and global styles (if added)
-├── lib/                 # Utility functions (optional)
-├── models/              # Mongoose models (if added)
-├── .gitignore           # Files and folders to ignore in Git
-├── README.md            # Project documentation
-├── package.json         # Project metadata and dependencies
-├── package-lock.json    # Dependency lock file
-├── jsconfig.json        # Path aliases and JS config
-├── next.config.mjs      # Next.js configuration
-├── postcss.config.mjs   # PostCSS configuration for Tailwind
-├── eslint.config.mjs    # ESLint configuration
-└── .env.local           # Environment variables (not committed)
-
 ## 🔐 Features
 
 - 🔒 Secure authentication via GitHub, Google, or email/password
